@@ -2,9 +2,9 @@
 
 This is a repository for ORIE 4741 project.
 
-\textbf{Name of Project:} Airbnb Accommodation Price Recommendation
+$\textbf{Name of Project:}$ Airbnb Accommodation Price Recommendation
 
-\textbf{Project Members:}
+$\textbf{Project Members:}$
 Zhengyu Long (zl478@cornell.edu)
 Han Dong (hd324@cornell.edu)
 
