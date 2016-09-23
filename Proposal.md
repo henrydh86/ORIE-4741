@@ -17,5 +17,5 @@ From tourists' perspective, one crucial advantage of Airbnb over hotels is the p
 As San Francisco is the birthplace for Airbnb, this pricing model would provide insights for Airbnb to understand better the interaction between the tourists and hosts on its platform.
 
 ##Why you think the data set will allow you to (begin to) answer the question?
-The data from “Inside Airbnb” provides detailed information on the listing of accommodations, host information and historical reviews. These data contain a lot of interesting features and if we can build a model from it, then we will be able to suggest a suitable price and thus, maximizes the profit. 
+The data from “Inside Airbnb” provides detailed information on the listing of accommodations, host information and historical reviews. These data contain a lot of interesting features and if we can build a model from it, then we will be able to suggest a suitable price and thus, maximizes the profit. Intuitively, features such as location, house type, cancellation policy, etc. can influence the price significatnly. Thus through data analysis, we will be able to seek the rationale behind the sucessful or unsuccessful price settlement. 
 
